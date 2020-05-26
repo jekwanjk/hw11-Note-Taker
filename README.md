@@ -1,27 +1,27 @@
-# Team Profile Generator
+# Note Taker
         
  ## Description 
         
- An application that allows the user to create a streamlined team webpage containing relevant contact information. It prompts the user to input information about the team manager and it's members.
+ An application that allows users to create, save, and delete notes. 
         
  ## Table of Contents 
         
+ * [Application](#application) 
+
  * [Installation](#installation) 
-        
- * [Tests](#tests) 
         
  * [Questions](#questions) 
         
  * [License](#license) 
-        
+
+ ## Application
+
+ To view the deployed application on Heroku, please visit: https://note-taker-jk.herokuapp.com/
+
  ## Installation 
         
- Download the scripts in the lib folder, the template HTMLs in the template folder, the package.json file, and app.js files to be able to run application in the command line.
+ Download all files and open server.js. 
       
- ## Tests
-        
- Run the "node app.js" command in the terminal.
-        
  ## Questions
         
  If you have any questions, please contact me at the following!! 
